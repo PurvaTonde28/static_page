@@ -1,0 +1,10 @@
+h1{
+    color: rgb(208, 44, 213);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:oblique;
+}
+button{
+    color: blue;
+    border-radius: 12px;
+    fill: black;
+}
